@@ -7,3 +7,4 @@ primera programación en ensamblador
 Hernández Pérez Luis Gerardo
 Brígido Mora Sain David
 Sánchez Hernández Christian
+Roa Herrera Oswaldo 
